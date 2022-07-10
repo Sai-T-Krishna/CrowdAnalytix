@@ -1,0 +1,3 @@
+>> Activate the virtual environment -- . .\venv\Scripts\activate
+>> Install the required dependencies -- pip install -r requirements.txt
+>> Now run the program

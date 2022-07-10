@@ -1,0 +1,5 @@
+Enter no. of test cases:2
+Enter the input string:sai-krishna
+Enter the input string:tom-jerry
+Result:  krishna-sai
+Result:  jerry-tom

@@ -1,0 +1,26 @@
+# for valid inputs
+
+Enter no. of elements: 3
+Enter the desired number:4
+Enter the desired number:5
+Enter the desired number:6
+Reversed list:  [6, 5, 4]
+
+# for empty inputs 
+# For the input list of 3, only 2 elements were given and returned the output
+
+Enter no. of elements: 3
+Enter the desired number:
+Enter the desired number:4
+Enter the desired number:7
+Reversed list:  [7, 4]
+
+# output for duplicate number
+
+Enter no. of elements: 5
+Enter the desired number:6
+Enter the desired number:7
+Enter the desired number:8
+Enter the desired number:9
+Enter the desired number:9
+Duplicate Number found at: 4
